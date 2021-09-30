@@ -1,16 +1,16 @@
-﻿# Mesh Exporter
+# Mesh Exporter
 
-This tool allows to convert Unity's native meshes (.asset) as fbx.
+This tool allows to convert Unity's native meshes (.asset) to fbx.
 
 
 ## Installation
 
-First of all in your Unity project you need to install "FBX Exporter" package from the PackageManager, after that download the [unitypackage]() and import it.
+First of all in your Unity project you need to install "FBX Exporter" package from the PackageManager, after that download the [unitypackage](https://github.com/LuxuryPanda/Unity-AssetExporters/raw/main/AssetExporters.unitypackage) and import it.
 
 Before using the tool you'll need to configure Unity's FBX exporter at least once so, open the scene "MeshExporting" in the folder "AssetExporters/MeshExporter/", then right click on the gameobject that is in there and select "Export to FBX".
-You'll be promped with an editor window in which you can configure the exporter.
+You'll be prompted with an editor window in which you can configure the exporter.
 
-![Config Window]()
+![Config Window](https://raw.githubusercontent.com/LuxuryPanda/Unity-AssetExporters/main/%23Screenshots/ExportPanel.png)
 
 ## Usage
 
